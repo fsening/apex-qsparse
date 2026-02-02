@@ -2,6 +2,6 @@
 .settings
 salesforce.schema
 Referenced Packages
-.idea
+.idea/
 .illuminatedCloud/
 illuminatedCloud/
