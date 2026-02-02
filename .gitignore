@@ -1,3 +1,7 @@
+# SFDX
+.sf/
+.sfdx/
+
 .project
 .settings
 salesforce.schema
