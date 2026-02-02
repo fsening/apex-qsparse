@@ -2,6 +2,7 @@
 .sf/
 .sfdx/
 
+# IntelliJ IDEA & Illuminated Cloud
 .idea/
 .illuminatedCloud/
 illuminatedCloud/
