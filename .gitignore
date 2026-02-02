@@ -2,10 +2,6 @@
 .sf/
 .sfdx/
 
-.project
-.settings
-salesforce.schema
-Referenced Packages
 .idea/
 .illuminatedCloud/
 illuminatedCloud/
